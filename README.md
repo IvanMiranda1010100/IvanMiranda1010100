@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg"  />
+  <img height="200" src="./snake.svg"  />
 </div>
 
 ###
